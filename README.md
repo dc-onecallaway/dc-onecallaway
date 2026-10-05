@@ -1,5 +1,9 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Deepak%20Chauhan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20%26%20Computing%20%40%20DTU&descSize=20&descAlignY=60&animation=fadeIn" />
+<div align="center">
+
+# Deepak Chauhan
+**Mathematics & Computing @ Delhi Technological University**
+
+</div>
 
 <div align="center">
 
@@ -191,6 +195,5 @@ Also sharpening: **DSA · OS · DBMS · Computer Networks · OOP · System Desig
 
 ### *Build. Solve. Learn. Repeat.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
