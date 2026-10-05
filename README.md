@@ -1,193 +1,196 @@
-# Deepak Chauhan
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Deepak%20Chauhan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20%26%20Computing%20%40%20DTU&descSize=20&descAlignY=60&animation=fadeIn" />
 
-### Mathematics & Computing @ Delhi Technological University
+<div align="center">
 
-I am a Mathematics & Computing undergraduate at **Delhi Technological University (DTU)** with interests in **Software Engineering, Artificial Intelligence, Machine Learning, Algorithms, and Systems**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+making;Building+a+chess+engine+in+C%2B%2B;700%2B+problems+solved;Exploring+ML+%26+AI+Systems)](https://github.com/dc-onecallaway)
 
-I enjoy solving challenging problems, building software from scratch, and understanding the systems behind the abstractions.
+<p>
+  <a href="https://www.linkedin.com/in/chauhan-deepak/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/dc_one_call_away/"><img src="https://img.shields.io/badge/LeetCode-1711-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/chauhandeepak21103"><img src="https://img.shields.io/badge/Codeforces-1340-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/dc_one_call_aw"><img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=dc-onecallaway&label=Profile%20views&color=0e75b6&style=flat-square" />
+
+</div>
 
 ---
 
-## About
+## 👋 About Me
 
-- 🎓 B.Tech in Mathematics & Computing at **Delhi Technological University**
-- 💻 Interested in **Software Engineering & AI/ML**
-- 🧠 Strong focus on **Data Structures & Algorithms**
-- ♟️ Building a **C++ chess engine** from scratch
-- 🤖 Exploring **Machine Learning & Deep Learning**
-- 🌐 Experienced with **Full-Stack Web Development**
+```cpp
+struct Deepak {
+    string university = "Delhi Technological University (DTU)";
+    string degree     = "B.Tech, Mathematics & Computing";
+    vector<string> interests = {"Software Engineering", "AI/ML", "Algorithms", "Systems"};
+    string motto      = "Build. Solve. Learn. Repeat.";
+};
+```
+
+- ♟️ Building a **chess engine** in C++ from scratch
 - 🏆 **700+** competitive programming problems solved
-- 📚 Currently strengthening my foundations in **Python, ML, and AI**
+- 🌐 Comfortable with **full-stack web development**
+- 🤖 Currently leveling up in **Python, ML & AI**
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Languages**
 
-### Web Development
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Web**
 
-### AI / Machine Learning
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**AI / ML**
 
-### Tools & Technologies
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+</div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ♟️ Chess Engine
-
-A UCI-compatible chess engine implemented from scratch in **C++**, focused on efficient search, move generation, and board representation.
-
-**Key components:**
+UCI-compatible engine in **C++** focused on fast search, move generation and board representation.
 
 - Bitboards & Magic Bitboards
 - Legal Move Generation
-- Alpha-Beta Search
-- Quiescence Search
+- Alpha-Beta + Quiescence Search
 - Iterative Deepening
-- Zobrist Hashing
-- Transposition Tables
-- Hash Move Ordering
-- MVV-LVA
+- Zobrist Hashing & Transposition Tables
+- Hash Move Ordering, MVV-LVA
 - Perft Testing
 
----
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏠 Wanderlust
-
-A full-stack property listing platform inspired by Airbnb.
-
-**Tech Stack:** Node.js · Express.js · MongoDB · EJS · Passport.js · Cloudinary · Mapbox
-
-**Features:**
+Full-stack Airbnb-style property listing platform.
 
 - Authentication & Authorization
-- Property Listings
-- CRUD Operations
-- Image Upload & Cloud Storage
-- Interactive Maps
+- Listings CRUD
+- Image upload (Cloudinary)
+- Interactive maps (Mapbox)
 - Reviews & Ratings
-- Server-side Validation
+- Server-side validation
 
-[View Repository](https://github.com/dc-onecallaway/air-bnb-repo)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+[🔗 View Repository](https://github.com/dc-onecallaway/air-bnb-repo)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Brain Tumor MRI Classification
+CNN that classifies MRI scans into `Glioma` · `Meningioma` · `Pituitary` · `No Tumor`.
 
-A deep learning project for classifying brain MRI scans into four categories:
-
-`Glioma` · `Meningioma` · `Pituitary` · `No Tumor`
-
-- ~90% test accuracy
-- CNN-based image classification
+- **~90%** test accuracy
 - Image preprocessing
-- Model evaluation
-- Precision, Recall & F1-score analysis
+- Precision, Recall & F1 analysis
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🗄️ Restaurant Management System
+Desktop application for managing restaurant operations.
 
-A Java and MySQL-based application for managing restaurant operations.
+- Java + JDBC
+- MySQL backend
 
-**Technologies:** Java · JDBC · MySQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Competitive Programming
+## 🏆 Competitive Programming
 
-| Platform | Achievement |
-|----------|-------------|
-| **LeetCode** | 1711 Rating |
+<div align="center">
+
+| Platform | Rating / Rank |
+|:--------:|:-------------:|
+| **LeetCode** | 1711 |
+| **Codeforces** | 1340 |
 | **CodeChef** | 3★ |
-| **Codeforces** | 1340 Rating |
-| **Total** | 700+ Problems Solved |
+| **Total solved** | 700+ |
 
-### Core Areas
+`Data Structures` · `Algorithms` · `DP` · `Graphs` · `Greedy` · `Binary Search` · `Number Theory` · `Mathematics`
 
-`Data Structures` · `Algorithms` · `Dynamic Programming` · `Graphs` · `Greedy` · `Binary Search` · `Number Theory` · `Mathematics`
+</div>
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-```text
-Python
-  ↓
-NumPy / Pandas
-  ↓
-Data Analysis
-  ↓
-Machine Learning
-  ↓
-Deep Learning
-  ↓
-AI / LLM Systems
+```mermaid
+flowchart LR
+    A[Python] --> B[NumPy / Pandas]
+    B --> C[Data Analysis]
+    C --> D[Machine Learning]
+    D --> E[Deep Learning]
+    E --> F[AI / LLM Systems]
 ```
 
-I am also continuously strengthening my knowledge of:
-
-- Data Structures & Algorithms
-- Operating Systems
-- Database Management Systems
-- Computer Networks
-- Object-Oriented Programming
-- System Design
+Also sharpening: **DSA · OS · DBMS · Computer Networks · OOP · System Design**
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dc-onecallaway&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dc-onecallaway&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## Connect
-
-<p align="left">
-  <a href="https://github.com/dc-onecallaway">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chauhan-deepak/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/dc_one_call_away/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/profile/chauhandeepak21103">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/dc_one_call_aw">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dc-onecallaway&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dc-onecallaway&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=dc-onecallaway&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-> **Build. Solve. Learn. Repeat.**
+<div align="center">
+
+### *Build. Solve. Learn. Repeat.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+
+</div>
